@@ -1,0 +1,38 @@
+
+Xenforo and wordpress are two seperate installs.
+https://xenforo.com/xf2-docs/manual/install-upgrade/#3-installing
+
+
+How to Install xenforo:
+Download xenforo 2.2 from online. babiato.org forums have nulled version but be careful as script code checks validity and reports to there server for piracy.
+
+Install MAMP Pro and set ports and start server.
+
+Click on webstart.
+
+Click on database in phpmyadmin in webstart and name it <what u want> i named it xenforo locally.
+
+Now copy the xenforo code into the htdocs.
+
+Clcik on mywebsite in webstart. 
+
+Installation begins.
+
+Enter config settings including database settings.
+
+Next it will install tables keep clicking continue It will install 200+ tables and then load default data this will take time.
+
+After successful installation it will ask for creating administrator account. Please create it. Save credentials.
+
+Then login to the admin panel of the site.
+
+Load UI UX 2 theme.(https://www.themehouse.com/help/documentation/uix2/installing-uix-2)
+For this go to appearences in admin panel as it cannot be installed via add-on.
+
+In appearences click on style and then give path to the xml file and it will import. This will take 5-10 mins time.
+
+Download Prisma Theme(Current one not compatible with xenforo 2.2) from babiato.org or www.nulledteam.com and install it as similar to above.
+
+Customization: Learn using google.
+
+
